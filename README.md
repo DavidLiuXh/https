@@ -256,7 +256,7 @@ add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
 
 转自[http://www.barretlee.com/blog/2015/10/05/how-to-build-a-https-server/](http://www.barretlee.com/blog/2015/10/05/how-to-build-a-https-server/)
 
-文中部署和配置部分，可能已经不再使用，但关于https的原理，还是可以让很多初学者有一个初步的了解。
+文中部署和配置部分，可能已经不再适用，但关于https的原理，还是可以让很多初学者有一个初步的了解。
 
 
 
